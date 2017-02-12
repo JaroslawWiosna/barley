@@ -13,6 +13,8 @@ $ git submodule update
 
 Stl files are quite large, so they are kept in another repository `barleyKernels`. In order to clone mentioned files the `git submodule $$$` commands are essential.
 
+Travis build script uses `git submodule update --init --recursive`, so this one-liner should be consider as **a better way** to download stl files, I guess.
+
 ## How to compile and run
 
 ```
