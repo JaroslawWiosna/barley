@@ -25,7 +25,8 @@ addons:
             - vtk6 
             - libvtk6-dev 
             - libpq-dev 
-
+            - libinsighttoolkit3-dev
+            - itk3
 before_script:
     - "cd /usr/src/gtest && sudo cmake . && sudo cmake --build . && sudo mv libg* /usr/local/lib/ ; cd -"
 
