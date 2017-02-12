@@ -21,7 +21,8 @@ addons:
             - libgtest-dev
             - cmake
             - cmake-data
-
+            - vtk6 
+            - libvtk6-dev 
 
 before_script:
     - "cd /usr/src/gtest && sudo cmake . && sudo cmake --build . && sudo mv libg* /usr/local/lib/ ; cd -"
