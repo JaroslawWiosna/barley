@@ -79,8 +79,9 @@ int main ( int argc, char *argv[] )
 	std::cout << "getKy="  << polygonProperties->GetKy() << "\n";
 	std::cout << "getKz="  << polygonProperties->GetKz() << "\n";
 
-  renderWindow->Render();
-  renderWindowInteractor->Start();
+// temp. disable
+//  renderWindow->Render();
+//  renderWindowInteractor->Start();
  
   return EXIT_SUCCESS;
 }
