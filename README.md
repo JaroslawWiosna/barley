@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.com/JaroslawWiosna/barley.svg)](https://travis-ci.com/JaroslawWiosna/barley)
-[![Pull Requests](https://img.shields.io/github/issues-pr/JaroslawWiosna/barley.svg)](https://github.com/JaroslawWiosna/barley/pulls)
+[![Build Status](https://travis-ci.org/JaroslawWiosna/barley.svg)](https://travis-ci.org/JaroslawWiosna/barley)
 [![Licence](https://img.shields.io/github/license/JaroslawWiosna/barley.svg)]()
 
 # Barley
