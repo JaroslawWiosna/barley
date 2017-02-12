@@ -1,0 +1,3 @@
+[submodule "barleyKernels"]
+	path = barleyKernels
+	url = https://github.com/JaroslawWiosna/barleyKernels.git
